@@ -1,0 +1,6 @@
+C:\Users\navjo\Downloads\PP2E v1-0 Student Files 2005-0430\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csprojAssemblyReference.cache
+C:\Users\navjo\Downloads\PP2E v1-0 Student Files 2005-0430\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\navjo\Downloads\PP2E v1-0 Student Files 2005-0430\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.dll
+C:\Users\navjo\Downloads\PP2E v1-0 Student Files 2005-0430\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.dll
+C:\Users\navjo\Downloads\PP2E v1-0 Student Files 2005-0430\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\navjo\Downloads\PP2E v1-0 Student Files 2005-0430\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.pdb
